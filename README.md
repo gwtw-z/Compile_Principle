@@ -50,6 +50,6 @@ Morgan Kaufmann; 1st edition (August 15, 1997)
 查看 [`resources/`](resources) 文件夹，获取更多学习材料。
 
 ## 反馈和联系
-如有任何问题，请通过邮箱联系:![email](resources\email.png)
+如有任何问题，请通过邮箱联系:![email](resources/email.png)
 
 祝学习愉快！
